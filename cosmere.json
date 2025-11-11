@@ -1,21 +1,21 @@
 {
-  "baseUrl": "https://ulisesgascondemo.atlassian.net/wiki/rest/api",
+  "baseUrl": "https://vt-edumate.atlassian.net/wiki/spaces/ED1/",
   "cachePath": "build",
-  "prefix": "This document is automatically generated. Please don't edit it directly!",
+  "prefix": "",
   "pages": [
     {
-      "pageId": "360554",
+      "pageId": "5865514",
       "file": "README.md",
-      "title": "Sync Markdown files with Confluence"
+      "title": "Upload and Metadata Extraction Service"
     },
     {
-      "pageId": "360561",
+      "pageId": "5832770",
       "file": "pages/demo1.md",
-      "title": "Demo Page 1 - Simple Markdown to Confluence"
+      "title": "Document Structure Parsing Service"
     }, {
-      "pageId": "360568",
+      "pageId": "5931043",
       "file": "pages/demo2.md",
-      "title": "Demo Page 2 - Advance Markdown and Media to Confluence"
+      "title": "AI Document Processing System - Overview"
     }
   ]
 }
