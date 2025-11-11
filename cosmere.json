@@ -5,16 +5,16 @@
   "pages": [
     {
       "pageId": "5865514",
-      "file": "README.md",
+      "file": "pages/Upload-and-Metadata-Extraction-Service.md",
       "title": "Upload and Metadata Extraction Service"
     },
     {
       "pageId": "5832770",
-      "file": "pages/demo1.md",
+      "file": "pages/Document-Structure-Parsing-Service.md",
       "title": "Document Structure Parsing Service"
     }, {
       "pageId": "5931043",
-      "file": "pages/demo2.md",
+      "file": "pages/Overview.md",
       "title": "AI Document Processing System - Overview"
     }
   ]
